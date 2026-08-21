@@ -1,0 +1,21 @@
+id,name,email,region,status,revenue,signup_date
+1,Alice Johnson,alice@example.com,North,active,12500.50,2024-01-15
+2,Bob Smith,bob@example.com,South,active,8900.25,2024-02-20
+3,Carol Williams,carol@example.com,East,inactive,3200.00,2024-01-10
+4,David Brown,david@example.com,North,active,15600.75,2024-03-05
+5,Eve Davis,eve@example.com,West,active,9800.00,2024-02-28
+6,Frank Miller,frank@example.com,South,inactive,4100.50,2024-01-22
+7,Grace Wilson,grace@example.com,East,active,11200.00,2024-03-15
+8,Henry Moore,henry@example.com,North,active,7800.25,2024-02-10
+9,Ivy Taylor,ivy@example.com,West,inactive,2900.75,2024-01-30
+10,Jack Anderson,jack@example.com,South,active,13400.00,2024-03-20
+11,Karen Thomas,karen@example.com,East,active,6700.50,2024-02-05
+12,Leo Jackson,leo@example.com,North,inactive,5100.25,2024-01-25
+13,Mia White,mia@example.com,West,active,14800.00,2024-03-10
+14,Noah Harris,noah@example.com,South,active,10200.75,2024-02-15
+15,Olivia Martin,olivia@example.com,East,inactive,3800.50,2024-01-18
+16,Peter Garcia,peter@example.com,North,active,16200.00,2024-03-25
+17,Quinn Martinez,quinn@example.com,West,active,8500.25,2024-02-22
+18,Rachel Robinson,rachel@example.com,South,inactive,4500.75,2024-01-28
+19,Sam Clark,sam@example.com,East,active,12100.00,2024-03-08
+20,Tina Rodriguez,tina@example.com,North,active,9300.50,2024-02-12
